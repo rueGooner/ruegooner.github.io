@@ -1,0 +1,22 @@
+{
+  "name": "Rueben Cumberbatch",
+  "tagline": "Senior Front-end Developer",
+  "contact": [
+    {
+      "icon": "mdi:map-marker",
+      "text": "Remote Work"
+    },
+    {
+      "icon": "mdi:map-marker",
+      "text": "Contract Work"
+    },
+    {
+      "icon": "mdi:map-marker",
+      "text": "Greater Manchester"
+    },
+    {
+      "icon": "mdi:map-marker",
+      "text": "Lancashire"
+    }
+  ]
+}
