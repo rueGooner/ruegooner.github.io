@@ -5,7 +5,7 @@ import { Icon } from '@iconify/vue';
 const headerData = ref(null);
 
 onMounted(async () => {
-  const response = await import('@/assets/header.json');
+  const response = await import('@/assets/data/header.json');
   headerData.value = response.default;
 });
 </script>

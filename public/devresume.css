@@ -1,4 +1,4 @@
-/*! 
+/*!
  * Template Name: DevResume - Bootstrap 5 Resume/CV Template for Software Developers
  * Version: Bootstrap 5 v2.0
  * Author: Xiaoying Riley
@@ -10559,10 +10559,21 @@ a.theme-link:hover {
   top: 0;
 }
 .resume-name {
-  font-size: 2.75rem;
+  font-size: 1.75rem;
   font-weight: 900;
-  letter-spacing: 0.4rem;
+  letter-spacing: 0;
   color: #00aaff;
+}
+@media (min-width: 768px) {
+  .resume-name {
+    letter-spacing: 0.4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .resume-name {
+    font-size: 2.75rem;
+  }
 }
 .resume-tagline {
   font-size: 1.25rem;
