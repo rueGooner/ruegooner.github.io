@@ -1,76 +1,74 @@
-{
-  "workExperience": [
-    {
-      "position": "Senior Frontend Developer",
-      "company": "Oplo/Tandem",
-      "dates": "2021 - Present",
-      "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
-      "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
-      "responsibilities": [
-        "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
-        "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
-        "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
-        "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
-        "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
-        "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
-      ]
-    },
-    {
-      "position": "Senior Frontend Developer",
-      "company": "Naimuri",
-      "dates": "2021 - Present",
-      "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
-      "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
-      "responsibilities": [
-        "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
-        "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
-        "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
-        "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
-        "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
-        "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
-      ]
-    },
-    {
-      "position": "Senior Frontend Developer",
-      "company": "Oplo/Tandem",
-      "dates": "2021 - Present",
-      "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
-      "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
-      "responsibilities": [
-        "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
-        "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
-        "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
-        "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
-        "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
-        "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
-      ]
-    },
-    {
-      "position": "Frontend Developer",
-      "company": "JD Sports",
-      "dates": "2019 - 2021",
-      "techStack": ["ReactJS", "VueJS", "Vuex", "NodeJS", "Express"],
-      "description": "JD Sports are one of the largest sports fashion retailers in the UK, providing web based app based sales. Worked in the Development team, primarily focused on building features for all JD and JD Owned brands.",
-      "responsibilities": [
-        "Introduced Bitbucket as the solution for hosting source code removing the previous FTP process.",
-        "Developed and deployed the Synergy Portal and the children applications (including Digital Asset Manager, Email template builder, Navigation Builder, Data Querying Tool) to be used company wide improving workflow and employee productivity.",
-        "Introduced testing (Vue Test Utils) to the team on all new code ~95% and legacy code to ~80% coverage.",
-        "Upgraded existing REST API's from node 8 to node 12 allowing for improved capabilities and reducing polyfills."
-      ]
-    },
-    {
-      "position": "Magento Frontend Developer",
-      "company": "Ampersand Commerce",
-      "dates": "2017 - 2019",
-      "techStack": ["ReactJS", "PHP", "Magento"],
-      "description": "Manchester based Digital Agency Ampersand are primarily focused on delivering clean, scaleable ecommerce solutions. Worked as part of a large team of back-end developers, UX designers and business analysts focused on providing M1 > M2 replatforms, full multi-site ecommerce solutions and features for existing Magento websites."
-    },
-    {
-      "position": "Junior Developer",
-      "company": "Frank Design / Frank Health",
-      "dates": "2014 - 2017",
-      "techStack": ["Concrete5 CMS", "PHP"],
-      "description": "Manchester based Digital Frank Design specialise in design & development for solutions for the NHS and other healthcare providers. Worked as part of a small close-knit team to deliver web-based intranet/extranet solutions, websites and web-tools within the NHS and private healthcare sectors."
-    }
-  ]
-}
+[
+  {
+    "position": "Senior Frontend Developer",
+    "company": "Oplo/Tandem",
+    "dates": "2021 - Present",
+    "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
+    "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "responsibilities": [
+      "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
+      "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
+      "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
+      "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
+      "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
+      "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
+    ]
+  },
+  {
+    "position": "Senior Frontend Developer",
+    "company": "Naimuri",
+    "dates": "2021 - Present",
+    "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
+    "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "responsibilities": [
+      "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
+      "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
+      "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
+      "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
+      "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
+      "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
+    ]
+  },
+  {
+    "position": "Senior Frontend Developer",
+    "company": "Oplo/Tandem",
+    "dates": "2021 - Present",
+    "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
+    "description": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances. Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "responsibilities": [
+      "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
+      "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
+      "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
+      "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
+      "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
+      "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
+    ]
+  },
+  {
+    "position": "Frontend Developer",
+    "company": "JD Sports",
+    "dates": "2019 - 2021",
+    "techStack": ["ReactJS", "VueJS", "Vuex", "NodeJS", "Express"],
+    "description": "JD Sports are one of the largest sports fashion retailers in the UK, providing web based app based sales. Worked in the Development team, primarily focused on building features for all JD and JD Owned brands.",
+    "responsibilities": [
+      "Introduced Bitbucket as the solution for hosting source code removing the previous FTP process.",
+      "Developed and deployed the Synergy Portal and the children applications (including Digital Asset Manager, Email template builder, Navigation Builder, Data Querying Tool) to be used company wide improving workflow and employee productivity.",
+      "Introduced testing (Vue Test Utils) to the team on all new code ~95% and legacy code to ~80% coverage.",
+      "Upgraded existing REST API's from node 8 to node 12 allowing for improved capabilities and reducing polyfills."
+    ]
+  },
+  {
+    "position": "Magento Frontend Developer",
+    "company": "Ampersand Commerce",
+    "dates": "2017 - 2019",
+    "techStack": ["ReactJS", "PHP", "Magento"],
+    "description": "Manchester based Digital Agency Ampersand are primarily focused on delivering clean, scaleable ecommerce solutions. Worked as part of a large team of back-end developers, UX designers and business analysts focused on providing M1 > M2 replatforms, full multi-site ecommerce solutions and features for existing Magento websites."
+  },
+  {
+    "position": "Junior Developer",
+    "company": "Frank Design / Frank Health",
+    "dates": "2014 - 2017",
+    "techStack": ["Concrete5 CMS", "PHP"],
+    "description": "Manchester based Digital Frank Design specialise in design & development for solutions for the NHS and other healthcare providers. Worked as part of a small close-knit team to deliver web-based intranet/extranet solutions, websites and web-tools within the NHS and private healthcare sectors."
+  }
+]

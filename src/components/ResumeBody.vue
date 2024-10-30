@@ -1,12 +1,13 @@
 <script setup>
 
+import WorkExperience from "@/components/WorkExperience.vue";
 </script>
 
 <template>
   <div class="resume-body">
     <div class="row">
       <div class="resume-main col-12 col-lg-8 col-xl-9 pe-0 pe-lg-5">
-        work section
+        <WorkExperience />
         <!--//work-section-->
 
         project section
