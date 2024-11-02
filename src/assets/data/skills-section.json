@@ -1,0 +1,42 @@
+{
+  "technical": [
+    "JavaScript",
+    "TypeScript",
+    "ReactJS",
+    "VueJS",
+    "NodeJS",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "RESTful APIs",
+    "GraphQL",
+    "CI/CD pipelines",
+    "Docker",
+    "Kubernetes",
+    "Jest",
+    "Mocha",
+    "Cypress",
+    "Test Driven Development (TDD)",
+    "Behavior Driven Development (BDD)",
+    "Object Oriented Programming (OOP)"
+  ],
+  "professional": [
+    "Lead and deliver complex solutions",
+    "Strong analytical and problem-solving skills",
+    "Team and people management",
+    "Cross-functional team collaboration",
+    "Mentorship and team development",
+    "Agile project management and sprint planning",
+    "Stakeholder management and communication",
+    "Performance optimization and debugging across the stack"
+  ],
+  "additional": [
+    "Architecting scalable TypeScript-based full-stack applications",
+    "Advanced front-end development with Vue.js and React",
+    "Backend expertise with Node.js, RESTful APIs, and GraphQL",
+    "Database optimization and management",
+    "CI/CD and DevOps practices implementation",
+    "TypeScript design patterns and clean code principles",
+    "Automated testing strategies with Jest, Mocha, and Cypress"
+  ]
+}

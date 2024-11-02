@@ -24,8 +24,8 @@ onMounted(async () => {
       <!--//resume-title-->
       <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
         <ul class="list-unstyled mb-0">
-          <li class="mb-2" v-for="(contact, index) in headerData.contact" :key="index">
-            <Icon :icon="contact.icon" class="h6 mb-1 me-2" />
+          <li class="mb-2 h6" v-for="(contact, index) in headerData.contact" :key="index">
+            <Icon :icon="contact.icon" class="h6 mb-1 me-2 link-primary" />
             {{ contact.text }}
           </li>
         </ul>
@@ -37,5 +37,7 @@ onMounted(async () => {
 </template>
 
 <style scoped>
-
+.resume-contact li {
+  font-weight: unset;
+}
 </style>

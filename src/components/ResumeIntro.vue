@@ -1,9 +1,16 @@
 <script setup>
+import {ref, onMounted} from 'vue';
 
+const introduction = ref(null);
+
+onMounted(async () => {
+  const response = await import('@/assets/data/introduction.json');
+  introduction.value = response.default;
+});
 </script>
 
 <template>
-  <div class="resume-intro py-3">
+  <div class="resume-intro py-3" v-if="introduction">
     <div class="row align-items-center">
       <div class="col-12 col-md-3 col-xl-2 text-center">
         <img
@@ -15,18 +22,8 @@
 
 
       <div class="col text-start">
-        <p class="mb-0">
-          Experienced Web Developer with over 7 years’ experience across
-          all areas of the Web Application development life cycle
-          currently acting as the Lead on a number of key internal
-          projects. An efficient team player with a can-do approach to
-          delivering software solutions and an excellent capacity for
-          handling new technologies, picking up new skills and solving
-          problems. Proficiency in JavaScript delivering solutions using
-          both the MEVN and MERN tech stacks, ticketing with JIRA,
-          version control with Bitbucket, unit testing with Jest,
-          React/Vue Test Utils and TypeScript.
-        </p>
+        <p class="mb-1">{{ introduction?.summary }}</p>
+        <p>{{ introduction?.leadership }}</p>
       </div>
       <!--//col-->
     </div>
