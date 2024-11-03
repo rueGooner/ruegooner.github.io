@@ -1,20 +1,25 @@
 [
   {
-    "position": "Senior Frontend Developer",
-    "company": "Oplo/Tandem",
-    "dates": "2021 - Present",
-    "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
-    "companyDescription": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances.",
-    "jobRole": "Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "position": "Senior Full Stack Engineer",
+    "company": "BT Group",
+    "dates": "2023 - Present",
+    "techStack": ["JavaScript", "TypeScript", "ReactJS", "VueJS", "NodeJS", "MongoDB", "PostgreSQL", "Jenkins", "Azure"],
+    "companyDescription": "BT Group, a major telecommunications and broadband provider in the UK, delivering high-volume digital solutions for customer self-serve products.",
+    "jobRole": "Serving as a key member of the Engineering Leadership team, responsible for the technical roadmap, end-to-end platform development, and delivery of scalable digital solutions across multiple global teams.",
     "responsibilities": [
-      "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
-      "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
-      "Produced features for existing Car Finance focused dashboard using Vue/Nuxt.",
-      "Worked with UX/UI team to improve the user journey reducing the complete journey by 50%.",
-      "Helped drive the implementation of Docker, Sonarqube and Concourse to introduce container-based CI/CD and improve on overall code quality.",
-      "Provided workshops on TDD with Test Utils (Vue) and Testing Library (React) to boost code coverage over 94%."
+      "Led the planning, coordination, and execution of high-quality, end-to-end digital solutions that meet product and business requirements.",
+      "Served as a primary technical point of contact for internal stakeholders and Product Owners, aligning platform development with business outcomes.",
+      "Managed performance and quality of outsourced software development and testing teams across multiple global locations.",
+      "Implemented and optimized CI/CD pipelines, using tools like Jenkins and GitLab, to improve delivery efficiency and code quality.",
+      "Oversaw the transformation of testing practices from manual to automated, selecting suitable testing frameworks and tools.",
+      "Mentored and coached teams of developers, testers, and DevOps engineers, driving productivity and quality standards.",
+      "Monitored and managed code security and compliance, ensuring adherence to industry standards and regulatory requirements.",
+      "Collaborated with cross-functional teams, including Operations and Support, to address live issues and reduce time-to-resolution for defects and bugs.",
+      "Facilitated the delivery of API-driven architectures and microservices, with a focus on multi-brand and multi-domain solutions.",
+      "Identified and resolved process bottlenecks, enhancing the software development lifecycle and improving overall project outcomes."
     ]
   },
+
   {
     "position": "Senior Frontend Developer",
     "company": "Naimuri",
