@@ -2,10 +2,10 @@
   {
     "position": "Senior Full Stack Engineer",
     "company": "BT Group",
-    "dates": "2023 - Present",
-    "techStack": ["JavaScript", "TypeScript", "ReactJS", "VueJS", "NodeJS", "MongoDB", "PostgreSQL", "Jenkins", "Azure"],
+    "dates": "March 2024 - Present",
+    "techStack": ["JavaScript", "TypeScript", "ReactJS", "NodeJS", "DynamoDB", "PostgreSQL", "Jenkins", "AWS"],
     "companyDescription": "BT Group, a major telecommunications and broadband provider in the UK, delivering high-volume digital solutions for customer self-serve products.",
-    "jobRole": "Serving as a key member of the Engineering Leadership team, responsible for the technical roadmap, end-to-end platform development, and delivery of scalable digital solutions across multiple global teams.",
+    "jobRole": "Serving as a key member of the Service Repair development team, responsible for the technical roadmap, end-to-end platform development, and delivery of scalable digital solutions across multiple global squads.",
     "responsibilities": [
       "Led the planning, coordination, and execution of high-quality, end-to-end digital solutions that meet product and business requirements.",
       "Served as a primary technical point of contact for internal stakeholders and Product Owners, aligning platform development with business outcomes.",
@@ -23,10 +23,10 @@
   {
     "position": "Senior Frontend Developer",
     "company": "Naimuri",
-    "dates": "2021 - Present",
+    "dates": "2021 - February 2024",
     "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
     "companyDescription": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances.",
-    "jobRole": "Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "jobRole": "Worked as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
     "responsibilities": [
       "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
       "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
@@ -42,7 +42,7 @@
     "dates": "2021 - Present",
     "techStack": ["ReactJS", "VueJS", "NestJS", "MongoDB", "PostgreSQL", "Redux Toolkit"],
     "companyDescription": "Tandem Bank, one of the UK's first digital challenger banks who provide a companion/app based approach to finances.",
-    "jobRole": "Working as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
+    "jobRole": "Worked as part of the Senior Development team, primarily focused on delivering a brand new UI Portal focused on improving the complete lifecycle/management of the lending process.",
     "responsibilities": [
       "Developed the UI Portal using TypeScript, React, Redux Toolkit and Redux Toolkit Query to significantly improve data fetch/management.",
       "Collaborated on Back-end features using TypeScript and NodeJS to provide features for querying NoSQL (MongoDB) with NestJS (CQRS Approach).",
